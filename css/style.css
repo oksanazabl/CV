@@ -46,7 +46,7 @@ body {
 .sidebar {
   background-color: #1e2939;
   width: 370px;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 40px;
 }
 
@@ -62,7 +62,7 @@ body {
 }
 
 .sidebar-containers-title {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: 40px;
   margin-right: 40px;
   box-sizing: border-box;
@@ -73,7 +73,7 @@ body {
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .contacs-link {
@@ -96,7 +96,7 @@ body {
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .items-stile {
@@ -122,8 +122,8 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
 
 .project-link-style {
@@ -148,14 +148,14 @@ body {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 .work-place-title {
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .jobe-title {
@@ -167,7 +167,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   color: #b3b3b3;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .main-container-items-style {
