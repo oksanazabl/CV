@@ -23,7 +23,7 @@ body {
     justify-content: center;
     background: #ffffff;
     max-width: 480px;
-    padding: 0 30px;
+    padding: 0;
   }
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .pic {
-  width: 270px;
+  width: 300px;
 }
 
 .my-main-container {
@@ -136,6 +136,13 @@ body {
 
 .project-link-title-style {
   color: #a5a5a5;
+}
+
+.project-link-title-style:hover,
+.project-link-title-style:focus {
+  color: #001a84b1;
+  cursor: pointer;
+  font-weight: bold;
 }
 
 .main-title {
